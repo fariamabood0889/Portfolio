@@ -102,15 +102,15 @@ const projects: Project[] = [
       ],
       images: [
   {
-    src: "/Portfolio/images/Screenshot 2026-03-05 at 2.29.58 PM.png",
+    src: "/Portfolio/public/images/Screenshot 2026-03-05 at 2.29.58 PM.png",
     alt: "Gorilla recognition results — 89% mAP"
   },
   {
-    src: "/Portfolio/images/Screenshot 2026-03-05 at 2.31.28 PM.png",
+    src: "/Portfolio/public/images/Screenshot 2026-03-05 at 2.31.28 PM.png",
     alt: "Monkey species recognition results — 91.3% mAP"
   },
   {
-    src: "/Portfolio/images/Screenshot 2026-03-05 at 2.32.03 PM.png",
+    src: "/Portfolio/public/images/Screenshot 2026-03-05 at 2.32.03 PM.png",
     alt: "Keypoint detection on gorilla"
   }
     ],	
