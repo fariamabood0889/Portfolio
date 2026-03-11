@@ -166,8 +166,8 @@ This project demonstrates my ability to:
 
 If you're interested in collaborating or discussing AI research:
 
-LinkedIn: *(add your LinkedIn link)*
-Email: *(add your email)*
+LinkedIn: *https://www.linkedin.com/in/faria-mabood-yazdani-876062188/*
+Email: *fariamabood0889@gmail.com*
 
 ---
 
