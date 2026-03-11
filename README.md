@@ -1,73 +1,174 @@
-# Welcome to your Lovable project
+# AI / ML Portfolio 🚀
 
-## Project info
+🌐 **Live Portfolio**
+https://fariamabood0889.github.io/Portfolio/
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+---
 
-## How can I edit this code?
+# 👩‍💻 About This Repository
 
-There are several ways of editing your application.
+This repository contains my **AI / Machine Learning portfolio website**, showcasing research and engineering work in:
 
-**Use Lovable**
+* Artificial Intelligence
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Natural Language Processing
+* Large Language Models (LLMs)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+The portfolio demonstrates how AI techniques can be applied to **real-world systems such as telecom fault diagnosis, wildlife monitoring, and visual recognition systems.**
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+# 🧠 Featured AI / ML Projects
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 1️⃣ AI-Powered Fault Diagnosis Chatbot for Optical Transport Networks
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+An intelligent chatbot designed to assist engineers in diagnosing faults in **4.8T, 8T, and 12T Optical Transport Network systems**.
 
-Follow these steps:
+### Key Features
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+* Retrieval-Augmented Generation (RAG)
+* Vector search using FAISS
+* Telecom alarm log analysis
+* Automated root cause detection
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### Tech Stack
 
-# Step 3: Install the necessary dependencies.
-npm i
+* Python
+* Large Language Models (LLMs)
+* HuggingFace Transformers
+* FAISS Vector Database
+* NLP
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+---
+
+## 2️⃣ Automatic Animal Recognition
+
+A **deep learning computer vision system** that automatically detects and identifies animals in images and videos.
+
+### Approach
+
+1. Bounding box annotation of animal bodies
+2. Keypoint detection using Detectron2
+3. Identity classification with Faster R-CNN
+
+### Results
+
+* **89% mAP** on the Bristol Gorilla dataset
+* **91.3% mAP** on Monkey Species dataset
+
+### Tech Stack
+
+* Python
+* Detectron2
+* CNN
+* Faster R-CNN
+* ResNet-50 FPN
+
+---
+
+## 3️⃣ Gorilla Face Recognition
+
+AI-based system for identifying **individual gorillas from video data** in zoo environments.
+
+### Features
+
+* Facial feature extraction using deep learning
+* Video analytics pipeline
+* Individual animal identification
+
+---
+
+## 4️⃣ Semantic Image Segmentation
+
+Deep learning architecture for **semantic segmentation using Atrous Convolution**.
+
+### Key Concepts
+
+* Multi-scale feature extraction
+* Improved spatial resolution
+* Scalable segmentation pipeline
+
+---
+
+# 🛠 Technologies Used
+
+### AI / Machine Learning
+
+* Python
+* PyTorch
+* Detectron2
+* CNN
+* Computer Vision
+
+### Natural Language Processing
+
+* HuggingFace Transformers
+* Retrieval-Augmented Generation (RAG)
+* FAISS Vector Search
+
+### Web Development
+
+* React
+* TypeScript
+* Tailwind CSS
+
+---
+
+# 📂 Project Structure
+
+```
+Portfolio
+│
+├── public
+│   └── images
+│
+├── src
+│   ├── components
+│   ├── pages
+│   ├── sections
+│   └── App.tsx
+│
+├── package.json
+└── README.md
+```
+
+---
+
+# 🚀 Deployment
+
+The portfolio is deployed using **GitHub Pages**.
+
+To run the project locally:
+
+```
+git clone https://github.com/fariamabood0889/Portfolio.git
+cd Portfolio
+npm install
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+# 📊 Goals of This Portfolio
 
-**Use GitHub Codespaces**
+This project demonstrates my ability to:
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+* Build end-to-end AI/ML pipelines
+* Apply deep learning to real-world problems
+* Work with vector databases and LLM systems
+* Develop full-stack AI applications
 
-## What technologies are used for this project?
+---
 
-This project is built with:
+# 📬 Contact
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+If you're interested in collaborating or discussing AI research:
 
-## How can I deploy this project?
+LinkedIn: *(add your LinkedIn link)*
+Email: *(add your email)*
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+---
 
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+⭐ If you found this project interesting, consider **starring the repository**.
